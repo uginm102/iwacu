@@ -7,6 +7,8 @@ gem 'rails', '3.2.8'
 
 gem 'json'
 
+gem "haml"
+
 group :development, :test do
   #gem 'sqlite3'
   #gem 'mysql'
