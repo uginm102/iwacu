@@ -10,15 +10,14 @@ gem 'json'
 gem "haml"
 
 group :development, :test do
-  #gem 'sqlite3'
-  #gem 'mysql'
+  gem 'mysql2'
 end
 
 group :production do
   #gem 'pg'
 end
-gem 'mysql'
-#gem 'pg'
+
+
 
 
 # Gems used only for assets and not required
