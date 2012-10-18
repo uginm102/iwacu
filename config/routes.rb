@@ -1,4 +1,6 @@
 Iwacu::Application.routes.draw do
+  resources :folk_stories
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

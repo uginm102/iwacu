@@ -1,0 +1,2 @@
+module FolkStoriesHelper
+end

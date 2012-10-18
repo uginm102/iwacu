@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Title:</b>
+  <%= @folk_story.title %>
+</p>
+
+<p>
+  <b>Body:</b>
+  <%= @folk_story.body %>
+</p>
+
+
+<%= link_to 'Edit', edit_folk_story_path(@folk_story) %> |
+<%= link_to 'Back', folk_stories_path %>
