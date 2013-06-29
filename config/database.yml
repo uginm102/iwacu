@@ -27,8 +27,9 @@ test:
 production:
     adapter: mysql2
     encoding: utf8
-    database: iwacu
+    database: depz933nnxv
     pool: 5
-    username: root
-    password:
-    socket: /tmp/mysql.sock
+    username: depz933nnxv
+    password: w8rCO5w5GiT4
+    port: 3306
+    hostname: mysqlsdb.co8hm2var4k9.eu-west-1.rds.amazonaws.com
